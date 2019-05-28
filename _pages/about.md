@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Changhao Wang, a first-year Ph.D. student at UC Berkeley. I obtained my bachelor degree at Shanghai Jiao Tong University(SJTU) in 2018."
+description: "I am Changhao Wang, a Ph.D. student at UC Berkeley. I obtained my bachelor degree at Shanghai Jiao Tong University(SJTU) in 2018."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,9 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 ## Recent Updates
 
+- June 2019: I begin my robotics reserach intern at FANUC Advanced Reserach Laboratory.
 - March 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation submitted to IEEE IROS2019!
-- August 2018: I joined Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
+- August 2018: I join Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
 - July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L)!
 
 ## Education
@@ -53,4 +54,4 @@ Manipulation of deformable objects is a chal- lenging task for robots. These obj
 
 - Shiyu Jin*, **Changhao Wang**\*, and Masayoshi Tomizuka. Robust deformation model approximation for cable manipulation. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Under Review.
 
-- Te Tang*, **Changhao Wang**\*, and Masayoshi Tomizuka. A framework for manipulating deformable linear objects by coherent point drift. IEEE Robotics and Automation Letters, 3(4):3426–3433, 2018.
+- Te Tang*, **Changhao Wang**\*, and Masayoshi Tomizuka. A framework for manipulating deformable linear objects by coherent point drift. IEEE Robotics and Automation Letters, 3(4):3426–3433, 2018.~
