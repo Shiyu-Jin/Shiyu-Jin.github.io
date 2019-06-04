@@ -36,6 +36,10 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
     - Thesis: Vision-based Object Classification and Size Detection for Robotic Manipulation
     - Advisor:  [Prof. Ye Ding](http://me.sjtu.edu.cn/teacher_directory1/dinghua.html){:target="_blank"}, [Prof. Xinjun Sheng](http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html){:target="_blank"}
 
+## Work Experience
+- **Robotics Reserach Intern**, FANUC Advanced Reserach Laboratory (Union City, CA), June 2019 - August 2019
+
+
 ## Representative Publications
 
 ### Robotic Deformable Object Manipulation
