@@ -12,14 +12,14 @@ redirect_from:
 <img src="/images/41552171008_.pic.jpg" width="600">
 </p> -->
 
-I am a first-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, artificial intelligence and control theories with applications to **robotic manipulation** and **motion planning**.
+I am a second-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, artificial intelligence and control theories with applications to **robotic manipulation** and **motion planning**.
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 ## Recent Updates
 
+- June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IEEE IROS2019!
 - June 2019: I begin my robotics reserach intern at FANUC Advanced Reserach Laboratory.
-- March 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation submitted to IEEE IROS2019!
 - August 2018: I join Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
 - July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L)!
 
@@ -41,6 +41,11 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 
 ## Representative Publications
+### Robotic Bottle Filpping and Landing with TRPO and Adaptive MPC
+<p align="center">
+<img src="/images/demo_video_reduce_size.gif" width="700">
+</p>
+Robotic bottle filpping is a challenging task. Since the dynamics of the bottle is hard to model in the presence of noise and uncertainties, and the bottle flipping skills is hard to learn. We proposed a framework combining the Trust Region Policy Optimization (TRPO) to let the robot learn the bottle flipping skills with an Adaptive MPC controller to stablize the bottle. The trajectory of the bottle is predicted by an three layers LSTM network. Simulation results show that this framework is able to let the robots finish the task robustly.
 
 ### Robotic Deformable Object Manipulation
 
@@ -48,7 +53,7 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 <img src="/images/cable_manipulation.jpg" width="700">
 </p>
 
-Manipulation of deformable objects is a chal- lenging task for robots. These objects have infinite-dimensional configuration space and are computational-expensive to model, making it difficult for real-time tracking, planning and control. To deal with these challenges, we proposed two different model-free methods: 
+Manipulation of deformable objects is a challenging task for robots. These objects have infinite-dimensional configuration space and are computational-expensive to model, making it difficult for real-time tracking, planning and control. To deal with these challenges, we proposed two different model-free methods: 
 
 - Learning from demonstration based on coherent point drift. \[[paper](/files/rope_framework.pdf){:target="_blank"}\] \[[website](https://me.berkeley.edu/~tetang/RAL2018/RopeManipulation.html){:target="_blank"}\]
 
