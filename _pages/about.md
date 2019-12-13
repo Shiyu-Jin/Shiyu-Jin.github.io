@@ -12,7 +12,7 @@ redirect_from:
 <img src="/images/41552171008_.pic.jpg" width="600">
 </p> -->
 
-I am a second-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, artificial intelligence and control theories with applications to **robotic manipulation** and **motion planning**.
+I am a second-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
