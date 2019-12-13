@@ -16,6 +16,7 @@ I am a second-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:tar
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
+I am a marathon finisher and like running in my spare time. My dream is to finish all six marathon majors around the world.
 ## Recent Updates
 
 - June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IEEE IROS2019!
