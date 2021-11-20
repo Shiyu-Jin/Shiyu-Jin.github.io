@@ -8,9 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <p align="center">
-<img src="/images/41552171008_.pic.jpg" width="600">
-</p> -->
 
 I am a foruth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
