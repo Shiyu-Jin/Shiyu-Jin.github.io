@@ -1,7 +1,7 @@
 ---
 permalink: /coursework/
 title: "Coursework"
-description: "I major in controls and minor in robotics and artificial intelligence."
+description: "I major in Controls and minor in Robotics and Optimization."
 author_profile: true
 # redirect_from: 
   #  - /coursework/
@@ -15,9 +15,9 @@ author_profile: true
 
 - Advanced Control Systems II (ME C233, [Prof. Masayoshi Tomizuka](https://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka/){:target="_blank"})
 
-- Optimization Models in Engineering (EECS227AT, [Prof. Laurent El Ghaoui](https://www2.eecs.berkeley.edu/Faculty/Homepages/elghaoui.html/{:target="_blank"}), [Prof. Alexandre Bayen](https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html/){:target="_blank"})
-
 - Experiential Advanced Control Design I (ME C231A, [Prof. Francesco Borrelli](https://me.berkeley.edu/people/francesco-borrelli/){:target="_blank"})
+
+- Nonlinear Systems (ME 237/EE 222, [Prof. Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/?_ga=2.95370773.825281965.1637371647-1372556984.1611007795){:target="_blank"})
 
 ### Optimization:
 
@@ -31,6 +31,12 @@ author_profile: true
 
 - Introduction to Machine Learning (CS289, [Prof. Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/){:target="_blank"}, [Prof. Jennifer Listgarten](http://www.jennifer.listgarten.com){:target="_blank"})
 
+- Computer Vision (CS280, [Prof. Jitendra Malik](https://people.eecs.berkeley.edu/~malik/){:target="_blank"}, [Prof. Alexei Efros](https://people.eecs.berkeley.edu/~efros/){:target="_blank"}, [Prof. Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/){:target="_blank"})
+
 ### Robotics:
 
 - Advanced Robotics (CS287, [Prof. Pieter Abbel](https://people.eecs.berkeley.edu/~pabbeel/){:target="_blank"})
+
+- Deep Reinforcement Learning, Decision Making, and Control (CS285, [Prof. Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/){:target="_blank"})
+
+- Feedback Control of Legged Robots (ME 292B, [Prof. Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/){:target="_blank"}) 

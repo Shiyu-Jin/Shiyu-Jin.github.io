@@ -12,23 +12,26 @@ redirect_from:
 <img src="/images/41552171008_.pic.jpg" width="600">
 </p> -->
 
-I am a second-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
+I am a foruth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 I am a marathon finisher and like running in my spare time. My dream is to finish all six marathon majors around the world.
 ## Recent Updates
 
-- June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IEEE IROS2019!
+- June 2021: Paper: Trajectory Splitting: A Distributed Formulation for Collision Avoiding Trajectory Optimization accepted by IROS 2021.
+- June 2021: Paper: Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion accepted by IEEE Robotics and Automation Letters (RA-L).
+- Jan 2021: Paper: Contact Pose Identification for Peg-in-hole Assembly under Uncertainties accepted by ACC 2020.
+- May 2020: I begin my robotics research intern at (Google) X, the Moonshot Factory.
+- June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IROS2019.
 - June 2019: I begin my robotics reserach intern at FANUC Advanced Reserach Laboratory.
-- August 2018: I join Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
-- July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L)!
+- July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L).
 
 ## Education
 
 - **Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023 (Expected)**
 
-    - Major: Controls　　　　　　　　Minors: Optimization, Artificial Intelligence
+    - Major: Controls　　　　　　　　Minors: Optimization, Robotics
     - GPA: 4.0/4.0 　　　　　　　　　Advisor: Prof. Masayoshi Tomizuka
     - Research Interest: Robotics Manipulation, Motion Planning. 
 
@@ -38,10 +41,43 @@ I am a marathon finisher and like running in my spare time. My dream is to finis
     - Advisor:  [Prof. Ye Ding](http://me.sjtu.edu.cn/teacher_directory1/dinghua.html){:target="_blank"}, [Prof. Xinjun Sheng](http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html){:target="_blank"}
 
 ## Work Experience
+- **Robotics Research Intern**, (Google) X, the Moonshot Factory (Mountain View, CA), May 2020 - August 2020
 - **Robotics Research Intern**, FANUC Advanced Research Laboratory (Union City, CA), June 2019 - August 2019
 
 
 ## Representative Publications
+
+### Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks \[[Website](https://msc.berkeley.edu/research/deformable-GNN.html)\]
+<p align="center">
+<img src="/images/deformable_GNN.jpg" width="700">
+</p>
+Manipulating deformable objects by robots has a wide range of applications, e.g.,  manufacturing and medical surgery. To complete such tasks, an accurate dynamics model for predicting the deformation is critical for robust control. In this work, we deal with this challenge by proposing a hybrid offline-online method to learn the dynamics of deformable objects in a data-efficient manner. In the offline phase, we adopt Graph Neural Network (GNN) to learn the deformation dynamics purely from the simulation data. Then an online local residual model is learned to resolve the sim-to-real gap in order to achieve better accuracy and generalizability. The learned model is then utilized as the dynamics constraint of a Model Predictive Controller (MPC) to calculate the optimal robot movements. The online learning and MPC run in a closed-loop manner to robustly accomplish the task. Comparative results with existing methods are provided to show the effectiveness and robustness quantitatively.
+
+### Safe OnGO-VIC: Online Gain Optimization for Variable Impedance Control with Control Barrier Functions \[[Website](https://msc.berkeley.edu/research/safe-ongo-vic.html)\]
+<p align="center">
+<iframe src="https://www.youtube.com/embed/T6KEq6VmpLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+Variable impedance control plays an important role in contact-rich manipulation tasks. While many studies focus on designing the variable impedance control policies by adaptive control and reinforcement learning methods, these approaches are typically over specific to one task and not time-efficient to obtain. To deal with those problems, we present an efficient Safe Online Gain Optimization method for Variable Impedance Control (Safe OnGO-VIC). By reformulating the dynamics of impedance control as a control-affine system, in which the impedance gains are the inputs, we provide a novel perspective to understand the variable impedance control and innovatively formulate an optimization problem for online gain adaptation. 
+Moreover, the control barrier function (CBF) is incorporated into our gain optimization framework for safety guarantee.
+
+### Trajectory Splitting: A Distributed Formulation for Collision Avoiding Trajectory Optimization   
+<p align="center">
+<img src="/images/trajsplit.jpg" width="700">
+</p>
+Efficient trajectory optimization is essential for avoiding collisions in unstructured environments, but it remains challenging to have both speed and quality in the solutions. One reason is that second-order optimality requires calculating Hessian matrices that can grow with $O(N^2)$ with the number of waypoints. Decreasing the waypoints can quadratically decrease computation time. Unfortunately, fewer waypoints result in lower quality trajectories that may not avoid the collision. To have both, dense waypoints and reduced computation time, we took inspiration from recent studies on consensus optimization and propose a distributed formulation of collocated trajectory optimization. It breaks a long trajectory into several segments, where each segment becomes a subproblem of a few waypoints. These subproblems are solved classically, but in parallel, and the solutions are fused into a single trajectory with a consensus constraint that enforces continuity of the segments through a consensus update. With this scheme, the quadratic complexity is distributed to each segment and enables solving for higher-quality trajectories with denser waypoints. Furthermore, the proposed formulation is amenable to using any existing trajectory optimizer for solving the subproblems. 
+
+### Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion
+<p align="center">
+<img src="/images/leg_robot.jpg" width="700">
+</p>
+The performance of a model-based controller can severely suffer when its model inaccurately represents the real world dynamics. We propose to learn a time-varying, locally linear residual model along the robot's current trajectory, to compensate for the prediction errors of the controller's model. Supervised learning is performed online, as the robot is running in the unknown environment, using data collected from its immediate past. We theoretically investigate our method in its general formulation, then apply it to a bipedal controller derived from the full-order dynamics of virtual constraints, and a quadrupedal controller derived from a simplified model of contact forces. For a biped in simulation, our method consistently outperforms the baseline and a recent learning-based method. We also experiment with a 12\,kg quadruped in simulation and real world, where the baseline fails to walk with 10\,kg of payload but our method succeeds.
+
+### BPOMP: A Bilevel Path Optimization Formulation for Motion Planning \[[Website](https://changhaowang.github.io/BPOMP/BPOMP.html)\]
+<p align="center">
+<img src="/images/BPOMP.jpg" width="700">
+</p>
+Balancing computation efficiency and success rate is challenging for path optimization. To obtain a collision-free path, each waypoint along the path should be collision-free, and the waypoints should be dense. As a consequence, the solutions are computationally expensive to obtain. This paper introduces a bilevel path optimization formulation for motion planning (BPOMP). Different from standard formulations that only consider the collision on each waypoint, BPOMP additionally constraints the closest position to the obstacle along the continuous path. Intuitively, if the closest position is out of collision, the entire path should be collision-free. The problem is formulated as a bilevel optimization and then relaxed to canonical nonlinear programming (NLP), which can be solved classically.
+
 ### Robotic Bottle Filpping and Landing with TRPO and Adaptive MPC
 <p align="center">
 <img src="/images/demo_video_reduce_size.gif" width="700">
@@ -59,9 +95,3 @@ Manipulation of deformable objects is a challenging task for robots. These objec
 - Learning from demonstration based on coherent point drift. \[[paper](/files/rope_framework.pdf){:target="_blank"}\] \[[website](https://me.berkeley.edu/~tetang/RAL2018/RopeManipulation.html){:target="_blank"}\]
 
 - SPR-RWLS for online deformation model approximation. \[paper\] \[[website](https://changhaowang.github.io/IROS2019/SPRRWLS){:target="_blank"}\] \[[presentation](/files/CW_SPR_RWLS_Group_Meeting.pdf){:target="_blank"}\]
-
-**Publications:** (\*:equal contribution)
-
-- Shiyu Jin*, **Changhao Wang**\*, and Masayoshi Tomizuka. Robust deformation model approximation for cable manipulation. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Under Review.
-
-- Te Tang*, **Changhao Wang**\*, and Masayoshi Tomizuka. A framework for manipulating deformable linear objects by coherent point drift. IEEE Robotics and Automation Letters, 3(4):3426–3433, 2018.~
