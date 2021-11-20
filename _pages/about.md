@@ -14,7 +14,7 @@ redirect_from:
 
 I am a foruth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
-Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
+Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated in Nov 2021).
 
 I am a marathon finisher and like running in my spare time. My dream is to finish all six marathon majors around the world.
 ## Recent Updates
