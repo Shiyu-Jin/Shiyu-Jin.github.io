@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Changhao Wang, a Ph.D. student at UC Berkeley. I obtained my bachelor degree at Shanghai Jiao Tong University(SJTU) in 2018."
+description: "I am Changhao Wang, a foruth-year Ph.D. student at UC Berkeley. I obtained my bachelor degree at Shanghai Jiao Tong University(SJTU) in 2018."
 author_profile: true
 redirect_from: 
   - /about/
