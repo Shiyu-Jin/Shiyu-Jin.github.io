@@ -13,7 +13,6 @@ I am a foruth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:tar
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated in Nov 2021).
 
-I am a marathon finisher and like running in my spare time. My dream is to finish all six marathon majors around the world.
 ## Recent Updates
 
 - June 2021: Paper: Trajectory Splitting: A Distributed Formulation for Collision Avoiding Trajectory Optimization accepted by IROS 2021.
