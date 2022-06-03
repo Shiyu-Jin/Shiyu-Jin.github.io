@@ -15,11 +15,17 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated
 
 ## Recent Updates
 
+- May 2022: I begin my intern(resident) at (Google) X, the Moonshot Factory on the Everyday Robots project.
+- May 2022: Paper: Safe Online Gain Optimization for Cartesian Space Variable Impedance Control accepted by CASE 2022
+- Feb 2022: Paper: Offline-Online Learning of Deformation Model for Cable Manipulation With Graph Neural Networks accepted by IEEE Robotics and Automation Letters (RA-L).
+- Feb 2022: Paper: Robotic cable routing with spatial representation accepted by IEEE Robotics and Automation Letters (RA-L).
+- Jan 2022: Paper: Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks accepted by ICRA 2022
+- Jan 2022: Paper: BPOMP: A Bilevel Path Optimization Formulation for Motion Planning  accepted by ACC 2022
 - June 2021: Paper: Trajectory Splitting: A Distributed Formulation for Collision Avoiding Trajectory Optimization accepted by IROS 2021.
 - June 2021: Paper: Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion accepted by IEEE Robotics and Automation Letters (RA-L).
 - Jan 2021: Paper: Contact Pose Identification for Peg-in-hole Assembly under Uncertainties accepted by ACC 2020.
 - May 2020: I begin my robotics research intern at (Google) X, the Moonshot Factory.
-- June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IROS2019.
+- June 2019: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IROS 2019.
 - June 2019: I begin my robotics reserach intern at FANUC Advanced Reserach Laboratory.
 - July 2018: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L).
 
@@ -37,7 +43,8 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated
     - Advisor:  [Prof. Ye Ding](http://me.sjtu.edu.cn/teacher_directory1/dinghua.html){:target="_blank"}, [Prof. Xinjun Sheng](http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html){:target="_blank"}
 
 ## Work Experience
-- **Robotics Research Intern**, (Google) X, the Moonshot Factory (Mountain View, CA), May 2020 - August 2020
+- **Resident**, (Google) X, the Moonshot Factory (Mountain View, CA), May 2022 - August 2022
+- **Robotics Research Intern**, (Google) X, the Moonshot Factory (Remote), May 2020 - August 2020
 - **Robotics Research Intern**, FANUC Advanced Research Laboratory (Union City, CA), June 2019 - August 2019
 
 
