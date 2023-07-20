@@ -11,10 +11,13 @@ redirect_from:
 
 I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
-Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated in Aug 2022).
+Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated in June 2023).
 
 ## Recent Updates
 
+- June 2023: Workshop Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance([paper link](/files/01-Yu-spotlight), [video](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)) won the **Best Paper Award** at the [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/)
+- Jan 2023: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance accepted by ICRA 2023
+- Jan 2023: Paper: Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning accepted by ICRA 2023
 - May 2022: I begin my intern(resident) at (Google) X, the Moonshot Factory on the Everyday Robots project.
 - May 2022: Paper: Safe Online Gain Optimization for Cartesian Space Variable Impedance Control accepted by CASE 2022
 - Feb 2022: Paper: Offline-Online Learning of Deformation Model for Cable Manipulation With Graph Neural Networks accepted by IEEE Robotics and Automation Letters (RA-L).
