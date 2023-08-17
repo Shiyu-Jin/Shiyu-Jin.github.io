@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
 
-Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated in June 2023).
+Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 ## Recent Updates
 
@@ -46,12 +46,37 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"} (Updated
     - Advisor:  [Prof. Ye Ding](http://me.sjtu.edu.cn/teacher_directory1/dinghua.html){:target="_blank"}, [Prof. Xinjun Sheng](http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html){:target="_blank"}
 
 ## Work Experience
+- **Research Intern**, Honda Research Institute, (San Jose, CA), May 2023 - August 2023
 - **Resident**, (Google) X, the Moonshot Factory (Mountain View, CA), May 2022 - August 2022
 - **Robotics Research Intern**, (Google) X, the Moonshot Factory (Remote), May 2020 - August 2020
 - **Robotics Research Intern**, FANUC Advanced Research Laboratory (Union City, CA), June 2019 - August 2019
 
 
-## Representative Publications
+## Representative Projects
+
+### Bridging Sim-to-real Gap for Dexterous Manipulation Skills with Tactile Sensing [Details Coming Soon]
+
+<table style="position:relative;">
+<tr>
+<td>
+<div markdown="1">
+Learning dexterous in-hand manipualtion skills for multi-finger hand is challenging. It is even more challenging to deploy the learned skill in simulation to the real world. In this project, we proposed a framework that is able to transfer the learned manipulation skills to the hardware. In simulation, we proposed a teacher-student model for learning robust tactile signals, where we trained with accurate contact information in simulation to get robust manipulation policy, then we let a student with only binarize tactile information to mimic the teacher. We demonstrated the effectiveness of the approach on an Xela Allegro Hand with Uskin tactile sensors. Furthermore, to bridge the sim-to-real gap, we proposed an online policy residual learning framework to real-time update the policy to account for the domain gap. With this approach, we are able to robustly manipulate objects on the real Allegro hardware.
+</div>
+</td>
+<td>
+<div markdown="1">
+<img src="/images/manipulation.png" width="2000">
+</div>
+</td>
+</tr>
+</table>
+
+### Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning \[[Website](https://sites.google.com/view/admitlearn)\]
+<p align="center">
+<img src="/images/Overview.png" width="700">
+</p>
+
+Learning contact-rich manipulation skills is essential to robotic applications. Such skills require the robots to interact with the environment with feasible manipulation trajectories and suitable compliance control parameters to enable safe and stable contact. However, learning these skills is challenging due to data inefficiency in the real world and the sim-to-real gap in simulation. In this paper, we introduce a hybrid offline-online framework to learn robust manipulation skills. We employ model-free reinforcement learning for the offline phase to obtain the robot motion and compliance control parameters in simulation. Subsequently, in the online phase, we learn the residual of the compliance control parameters to maximize robot performance-related criteria with force sensor measurements in real time. To demonstrate the effectiveness and robustness of our approach, we provide comparative results against existing methods for assembly and pivoting tasks.
 
 ### Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks \[[Website](https://msc.berkeley.edu/research/deformable-GNN.html)\]
 <p align="center">
