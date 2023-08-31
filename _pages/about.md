@@ -9,12 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **robotic manipulation** and **motion planning**, and **robot skill learning**.
+I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **contact-rich manipulation** and **motion planning**, and **dexterous manipulation**.
 
 Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 ## Recent Updates
 
+- Sep 2023: Paper: Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning accepted by CoRL 2023
 - June 2023: Workshop Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance([paper link](/files/01-Yu-spotlight), [video](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)) won the **Best Paper Award** at the [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/)
 - Jan 2023: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance accepted by ICRA 2023
 - Jan 2023: Paper: Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning accepted by ICRA 2023
@@ -38,7 +39,7 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
     - Major: Controls　　　　　　　　Minors: Optimization, Robotics
     - GPA: 4.0/4.0 　　　　　　　　　Advisor: Prof. Masayoshi Tomizuka
-    - Research Interest: Robotics Manipulation, Motion Planning. 
+    - Research Interest: Robotics Manipulation, Trajectory Optimization, and Reinforcement Learning. 
 
 - **B.S. Mechanical Engineering, Shanghai Jiao Tong University (Shanghai, China), 2014 - 2018**
 
