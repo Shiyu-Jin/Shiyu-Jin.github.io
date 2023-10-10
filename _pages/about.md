@@ -11,8 +11,6 @@ redirect_from:
 
 I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **contact-rich manipulation** and **motion planning**, and **dexterous manipulation**.
 
-Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
-
 ## Recent Updates
 
 - Sep 2023: Paper: Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning accepted by CoRL 2023
@@ -54,24 +52,6 @@ Here is my [Curriculum Vitae](/files/CV_Changhao.pdf){:target="_blank"}.
 
 
 ## Representative Projects
-
-### Bridging Sim-to-real Gap for Dexterous Manipulation Skills with Tactile Sensing [Details Coming Soon]
-
-<table style="position:relative;">
-<tr>
-<td>
-<div markdown="1">
-Learning dexterous in-hand manipualtion skills for multi-finger hand is challenging. It is even more challenging to deploy the learned skill in simulation to the real world. In this project, we proposed a framework that is able to transfer the learned manipulation skills to the hardware. In simulation, we proposed a teacher-student model for learning robust tactile signals, where we trained with accurate contact information in simulation to get robust manipulation policy, then we let a student with only binarize tactile information to mimic the teacher. We demonstrated the effectiveness of the approach on an Xela Allegro Hand with Uskin tactile sensors. Furthermore, to bridge the sim-to-real gap, we proposed an online policy residual learning framework to real-time update the policy to account for the domain gap. With this approach, we are able to robustly manipulate objects on the real Allegro hardware.
-</div>
-</td>
-<td>
-<div markdown="1">
-<img src="/images/manipulation.png" width="2000">
-</div>
-</td>
-</tr>
-</table>
-
 ### Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning \[[Website](https://sites.google.com/view/admitlearn)\]
 <p align="center">
 <img src="/images/Overview.png" width="700">
@@ -96,6 +76,8 @@ Smooth behaviors are preferable for many contact-rich manipulation tasks. Impeda
 <img src="/images/trajsplit.jpg" width="700">
 </p>
 Efficient trajectory optimization is essential for avoiding collisions in unstructured environments, but it remains challenging to have both speed and quality in the solutions. One reason is that second-order optimality requires calculating Hessian matrices that can grow with $O(N^2)$ with the number of waypoints. Decreasing the waypoints can quadratically decrease computation time. Unfortunately, fewer waypoints result in lower quality trajectories that may not avoid the collision. To have both, dense waypoints and reduced computation time, we took inspiration from recent studies on consensus optimization and propose a distributed formulation of collocated trajectory optimization. It breaks a long trajectory into several segments, where each segment becomes a subproblem of a few waypoints. These subproblems are solved classically, but in parallel, and the solutions are fused into a single trajectory with a consensus constraint that enforces continuity of the segments through a consensus update. With this scheme, the quadratic complexity is distributed to each segment and enables solving for higher-quality trajectories with denser waypoints. Furthermore, the proposed formulation is amenable to using any existing trajectory optimizer for solving the subproblems. 
+
+Distributed Multi-agent Interaction Generation with Imagined Potential Games
 
 ### Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion
 <p align="center">
