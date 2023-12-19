@@ -37,7 +37,7 @@ I will be joining [Meta FAIR](https://ai.meta.com/research/) to work on projects
 
 ## Education
 
-- **Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023 (Expected)**
+- **Ph.D. Mechanical Engineering, UC Berkeley (Berkeley, CA), 2018 - 2023**
 
     - Major: Controls　　　　　　　　Minors: Optimization, Robotics
     - GPA: 4.0/4.0 　　　　　　　　　Advisor: Prof. Masayoshi Tomizuka
@@ -49,7 +49,7 @@ I will be joining [Meta FAIR](https://ai.meta.com/research/) to work on projects
     - Advisor:  [Prof. Ye Ding](http://me.sjtu.edu.cn/teacher_directory1/dinghua.html){:target="_blank"}, [Prof. Xinjun Sheng](http://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html){:target="_blank"}
 
 ## Work Experience
-- **Research Intern**, Honda Research Institute, (San Jose, CA), May 2023 - August 2023
+- **Research Intern**, Honda Research Institute, (San Jose, CA), May 2023 - Oct 2023
 - **Resident**, (Google) X, the Moonshot Factory (Mountain View, CA), May 2022 - August 2022
 - **Robotics Research Intern**, (Google) X, the Moonshot Factory (Remote), May 2020 - August 2020
 - **Robotics Research Intern**, FANUC Advanced Research Laboratory (Union City, CA), June 2019 - August 2019
