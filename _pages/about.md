@@ -2,18 +2,22 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Changhao Wang, a fifth-year Ph.D. student at UC Berkeley. I obtained my bachelor degree at Shanghai Jiao Tong University(SJTU) in 2018."
+description: "I'm Changhao Wang, a research engineer at Meta FAIR. My work focuses on dexterous manipulation and embodied AI."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **contact-rich manipulation** and **motion planning**, and **dexterous manipulation**.
+I received a Ph.D from [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Dec 2023, under the mentorship of [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka){:target="_blank"}. My research interest lies in the interdisciplinary combination of robotics, optimization, reinforcement learning and control theories with applications to **contact-rich manipulation** and **motion planning**, and **dexterous manipulation**.
+
+I will be joining [Meta FAIR](https://ai.meta.com/research/) to work on projects related to dexterous manipulation and embodied AI in Jan 2024.
 
 ## Recent Updates
 
-- Sep 2023: Paper: Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning accepted by CoRL 2023
+- Dec 2023: I successfully defended my Ph.D. dissertation and obtained the Ph.D. degree.
+- Dec 2023: Paper: Robot manipulation task learning by leveraging se (3) group invariance and equivariance accpeted by IEEE Robotics and Automation Letters (RA-L).
+- Sep 2023: Paper: Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning([website](https://sites.google.com/view/admitlearn)) accepted by CoRL 2023
 - June 2023: Workshop Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance([paper link](/files/01-Yu-spotlight), [video](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)) won the **Best Paper Award** at the [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/)
 - Jan 2023: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance accepted by ICRA 2023
 - Jan 2023: Paper: Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning accepted by ICRA 2023
