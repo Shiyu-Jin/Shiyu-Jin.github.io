@@ -222,7 +222,7 @@ IROS 2019
 
 Te Tang*, **Changhao Wang***, Masayoshi Tomizuka
 
-IROS 2019
+IEEE Robotics and Automation Letters (RA-L) 2018
 
 \[[Paper](/files/rope_framework.pdf)\]
 {{< /columns >}}
