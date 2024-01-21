@@ -39,6 +39,17 @@ Outside of work, I am a marathon runner.
 ---
 #### Research
 
+{{< columns "/images/ijrr24_cable.gif" "200px" "145px">}}
+**Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments**
+
+Mingrui Yu, Kangchen Lv, **Changhao Wang**, Yongpeng Jiang, Masayoshi Tomizuka, Xiang Li
+
+International Journal of Robotics Research, in submission
+
+\[[Paper](https://arxiv.org/pdf/2310.09899.pdf)\] \[[Website](https://mingrui-yu.github.io/DLO_planning_2/)\]
+{{< /columns >}}
+
+
 {{< columns "/images/online_admittance_learning.gif" "200px" "140px">}}
 **Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning**
 
