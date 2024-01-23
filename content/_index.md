@@ -12,6 +12,7 @@ Outside of work, I am a marathon runner.
 ---
 #### News
 
+- **01/2024**: Paper: Distributed Multi-agent Interaction Generation with Imagined Potential Games accepted by American Control Conference (ACC) 2024.
 - **01/2024**: I started as a Research Engineer in the Embodied AI team at Meta FAIR.
 - **12/2023**: I successfully defended my Ph.D. dissertation and obtained the Ph.D. degree.
 - **12/2023**: Paper: Robot manipulation task learning by leveraging se (3) group invariance and equivariance accpeted by IEEE Robotics and Automation Letters (RA-L).
@@ -50,6 +51,18 @@ International Journal of Robotics Research, in submission
 {{< /columns >}}
 
 
+{{< columns "/images/acc24.gif" "200px" "140px">}}
+**Distributed Multi-agent Interaction Generation with Imagined Potential Games**
+
+Lingfeng Sun, Pin-Yun Hung, **Changhao Wang**, Masayoshi Tomizuka, Zhuo Xu
+
+American Control Conference (ACC) 2024, Accepted
+
+\[[Paper](https://arxiv.org/pdf/2310.01614.pdf)\] \[[Website](https://sites.google.com/berkeley.edu/distributed-interaction)\] \[[Code](https://github.com/tg623623nana/Distributed-Multi-agent-Interaction-Generation-with-Imagined-Potential-Games)\]
+{{< /columns >}}
+
+
+
 {{< columns "/images/online_admittance_learning.gif" "200px" "140px">}}
 **Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning**
 
@@ -69,17 +82,6 @@ Joohwan Seo, Nikhil PS Prakash, Xiang Zhang, **Changhao Wang**, Jongeun Choi, Ma
 IEEE Robotics and Automation Letters (RAL) 2023
 
 \[[Paper](https://arxiv.org/pdf/2308.14984.pdf)\] \[[Website](https://sites.google.com/berkeley.edu/equivariant-task-learning/additional-contents?authuser=0)\] \[[Code](https://github.com/Joohwan-Seo/GIC_Learning_public)\]
-{{< /columns >}}
-
-
-{{< columns "/images/acc24.gif" "200px" "140px">}}
-**Distributed Multi-agent Interaction Generation with Imagined Potential Games**
-
-Lingfeng Sun, Pin-Yun Hung, **Changhao Wang**, Masayoshi Tomizuka, Zhuo Xu
-
-American Control Conference (ACC) 2024, in submission
-
-\[[Paper](https://arxiv.org/pdf/2310.01614.pdf)\] \[[Website](https://sites.google.com/berkeley.edu/distributed-interaction)\] \[[Code](https://github.com/tg623623nana/Distributed-Multi-agent-Interaction-Generation-with-Imagined-Potential-Games)\]
 {{< /columns >}}
 
 
