@@ -17,7 +17,7 @@ Outside of work, I am a marathon runner.
 - **12/2023**: I successfully defended my Ph.D. dissertation and obtained the Ph.D. degree.
 - **12/2023**: Paper: Robot manipulation task learning by leveraging se (3) group invariance and equivariance accpeted by IEEE Robotics and Automation Letters (RA-L).
 - **09/2023**: Paper: Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning ([website](https://sites.google.com/view/admitlearn)) accepted by CoRL 2023.
-- **06/2023**: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance([video](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)) won the **Best Paper Award** at the [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/).
+- **06/2023**: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance ([video](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)) won the **Best Paper Award** at the [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/).
 
 {{< details "show more" >}}
 - **01/2023**: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance accepted by ICRA 2023.
