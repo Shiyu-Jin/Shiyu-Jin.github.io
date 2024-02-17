@@ -22,7 +22,7 @@ Outside of work, I am a marathon runner.
 {{< details "show more" >}}
 - **01/2023**: Paper: A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance accepted by ICRA 2023.
 - **01/2023**: Paper: Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning accepted by ICRA 2023.
-- **05/2022**: I begin my intern(resident) at (Google) X, the Moonshot Factory on the Everyday Robots project.
+- **05/2022**: I begin my Resident at (Google) X, the Moonshot Factory on the Everyday Robots project.
 - **05/2022**: Paper: Safe Online Gain Optimization for Cartesian Space Variable Impedance Control accepted by CASE 2022
 - **02/2022** Paper: Offline-Online Learning of Deformation Model for Cable Manipulation With Graph Neural Networks accepted by IEEE Robotics and Automation Letters (RA-L).
 - **02/2022**: Paper: Robotic cable routing with spatial representation accepted by IEEE Robotics and Automation Letters (RA-L).
