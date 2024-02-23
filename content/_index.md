@@ -3,7 +3,7 @@ title: "Introduction"
 draft: false
 ---
 
-I'm a Research Engineer at Meta Fundamental AI Research (FAIR) in Menlo Park, focusing on Robotics Manipulation and Embodied AI.
+I'm a researcher at Meta Fundamental AI Research (FAIR) in Menlo Park, focusing on Robotics Manipulation and Embodied AI.
 
 I earned my Ph.D. from UC Berkeley in Dec 2023, under the guidance of Prof. Masayoshi Tomizuka. Additionally, I had the opportunity to contribute to the Google's Everyday Robots project in summer 2020 and 2022.
 
