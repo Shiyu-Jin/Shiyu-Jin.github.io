@@ -149,7 +149,7 @@ Shiyu Jin, Wenzhao Lian, **Changhao Wang**, Masayoshi Tomizuka, Stefan Schaal
 
 IEEE Robotics and Automation Letters (RA-L) 2022
 
-\[[Paper](https://lianwenzhao.github.io/cable_routing.pdf)\]
+\[[Paper](https://lianwenzhao.github.io/cable_routing.pdf)\] \[[Code](https://github.com/shiyujin0/cable_routing)\]
 {{< /columns >}}
 
 
