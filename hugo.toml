@@ -6,15 +6,15 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = "G-4KBSJL08XE"
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2024, Changhao Wang"
+copyright = "&copy; Copyright 2024, Shiyu Jin"
 
 # Configuration Features
 [params]
-  description = "I am a researcher at Meta FAIR working on robotics manipulation and embodied AI."      # Your meta description of the site
-  header_title = "Changhao Wang"                 # Your header title
-  header_subtitle = "Researcher @ Meta FAIR, Ph.D. UC Berkeley" # Your header subtitle
-  header_email = "Email: changhaowang [at] meta [dot] com"
-  home_image = "/images/changhao.jpg"          # Path to header image starting from the static directory (optional)
+  description = "I am a Robotic researcher at Baidu Research working on robotics manipulation."      # Your meta description of the site
+  header_title = "Shiyu Jin"                 # Your header title
+  header_subtitle = "Researcher @ Baidu Research, Ph.D. UC Berkeley" # Your header subtitle
+  header_email = "Email: shiyujinjsy [at] gmail [dot] com"
+  home_image = "/images/shiyujin.jpg"          # Path to header image starting from the static directory (optional)
   recent_posts = 0                           # Max amount of recent posts to show
   [params.style]                             # CSS style overrides
     backgroundColor = "#f8f9fa"
