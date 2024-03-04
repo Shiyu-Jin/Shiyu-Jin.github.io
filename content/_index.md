@@ -3,11 +3,9 @@ title: "Introduction"
 draft: false
 ---
 
-I'm a researcher at Meta Fundamental AI Research (FAIR) in Menlo Park, focusing on Robotics Manipulation and Embodied AI.
+I'm a robotic researcher at Baidu Research in Sunnyvale, California, focusing on Robotics Manipulation.
 
-I earned my Ph.D. from UC Berkeley in Dec 2023, under the guidance of Prof. Masayoshi Tomizuka. Additionally, I had the opportunity to contribute to the Google's Everyday Robots project in summer 2020 and 2022.
-
-Outside of work, I am a marathon runner.
+I earned my Ph.D. from UC Berkeley in Dec 2021, supervised by Prof. Masayoshi Tomizuka. Additionally, I had the opportunity to work at Google X, Intrinsic, MERL, Fanuc.
 
 ---
 #### News
@@ -40,7 +38,7 @@ Outside of work, I am a marathon runner.
 ---
 #### Research
 
-{{< columns "/images/ijrr24_cable.gif" "200px" "145px">}}
+<!-- {{< columns "/images/ijrr24_cable.gif" "200px" "145px">}}
 **Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments**
 
 Mingrui Yu, Kangchen Lv, **Changhao Wang**, Yongpeng Jiang, Masayoshi Tomizuka, Xiang Li
@@ -48,7 +46,7 @@ Mingrui Yu, Kangchen Lv, **Changhao Wang**, Yongpeng Jiang, Masayoshi Tomizuka, 
 International Journal of Robotics Research, in submission
 
 \[[Paper](https://arxiv.org/pdf/2310.09899.pdf)\] \[[Website](https://mingrui-yu.github.io/DLO_planning_2/)\]
-{{< /columns >}}
+{{< /columns >}} -->
 
 
 {{< columns "/images/acc24.gif" "200px" "140px">}}
