@@ -1,5 +1,5 @@
-baseURL = "https://changhaowang.github.io/"
-title = "Changhao Wang's Personal Homepage"
+baseURL = "https://shiyujin.github.io/"
+title = "Shiyu Jin's Personal Homepage"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
