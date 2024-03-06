@@ -19,7 +19,7 @@ University of California, Berkeley
 
 B.Sc. in Vehicle Engineering (2016.6)
 
-Beijing Institute of Technology Beijing, China
+Beijing Institute of Technology, Beijing, China
 
 <!-- ---
 #### News
@@ -114,7 +114,14 @@ Under review
 
 Workshop in ICRA 2023, workshop in RSS 2023
 
-\[[Paper](https://www.iaarc.org/publications/fulltext/07_ICRA_2023_Paper_42.pdf)\]  \[Video](https://www.youtube.com/watch?v=mMPLjP5OVNk)
+\[[Paper](https://www.iaarc.org/publications/fulltext/07_ICRA_2023_Paper_42.pdf)\]  \[[Video](https://www.youtube.com/watch?v=mMPLjP5OVNk)]
+{{< /columns >}}
+
+{{< columns "/images/wheel_loader_simulation.gif" "200px" "135px">}}
+**Autonomous Wheel Loader Simulation**
+
+**Shiyu Jin**
+
 {{< /columns >}}
 
 {{< columns "/images/water_scooping.gif" "200px" "170px">}}
