@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Shiyu Jin&#39;s Personal Homepage not working</title>
-    <link>http://localhost:1313/</link>
+    <link>https://shiyujin.github.io/</link>
     <description>Recent content in Introduction on Shiyu Jin&#39;s Personal Homepage not working</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Shiyu Jin</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shiyujin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/_index_backup/</link>
+      <link>https://shiyujin.github.io/_index_backup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/_index_backup/</guid>
+      <guid>https://shiyujin.github.io/_index_backup/</guid>
       <description>I&amp;rsquo;m a robotic researcher at Baidu Research in Sunnyvale, California, focusing on Robotics Manipulation.&#xA;I earned my Ph.D. from UC Berkeley in Dec 2021, supervised by Prof. Masayoshi Tomizuka. Additionally, I had the opportunity to work at Google X, Intrinsic, MERL, Fanuc.&#xA;News 01/2024: Paper: Distributed Multi-agent Interaction Generation with Imagined Potential Games accepted by American Control Conference (ACC) 2024. 01/2024: I started as a Research Engineer in the Embodied AI team at Meta FAIR.</description>
     </item>
   </channel>
