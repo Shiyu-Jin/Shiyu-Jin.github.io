@@ -3,11 +3,25 @@ title: "Introduction"
 draft: false
 ---
 
-I'm a robotic researcher at Baidu Research in Sunnyvale, California, focusing on Robotics Manipulation.
+I'm a robotic researcher at [Baidu Research](http://research.baidu.com/) in Sunnyvale, California. My research interests focus on robotic manipulation and robot learning.
 
-I earned my Ph.D. from UC Berkeley in Dec 2021, supervised by Prof. Masayoshi Tomizuka. Additionally, I had the opportunity to work at Google X, Intrinsic, MERL, Fanuc.
+I obtained my Ph.D. from [UC Berkeley](https://www.berkeley.edu/) in Dec 2021, supervised by [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html). Before joining Baidu, I had the opportunities to work at [Google X](https://rlingua.github.io/)/[Intrinsic](https://intrinsic.ai/), [MERL](https://www.merl.com/), [FANUC](https://www.fanucamerica.com/).
 
 ---
+#### EDUCATION
+Ph.D. in Mechanical Engineering (2021.12) 
+
+University of California, Berkeley
+
+M.S. in Mechanical Engineering (2018.5)
+
+University of California, Berkeley
+
+B.Sc. in Vehicle Engineering (2016.6)
+
+Beijing Institute of Technology Beijing, China
+
+<!-- ---
 #### News
 
 - **01/2024**: Paper: Distributed Multi-agent Interaction Generation with Imagined Potential Games accepted by American Control Conference (ACC) 2024.
@@ -33,117 +47,91 @@ I earned my Ph.D. from UC Berkeley in Dec 2021, supervised by Prof. Masayoshi To
 - **06/2019**: Paper: Robust Deformation Model Approximation for Robotic Cable Manipulation accepted by IROS 2019.
 - **07/2019**: I begin my robotics reserach intern at FANUC Advanced Reserach Laboratory.
 - **07/2018**: Paper: A Framework for Manipulating Deformable Linear Objects by Coherent Point Drift accepted by IEEE Robotics and Automation Letters (RA-L).
-{{< /details >}}
+{{< /details >}} -->
 
 ---
 #### Research
 
-<!-- {{< columns "/images/ijrr24_cable.gif" "200px" "145px">}}
-**Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments**
+{{< columns "/images/reasoning_grasping.png" "200px" "100px">}}
+**Reasoning Grasping via Multimodal Large Language Model**
 
-Mingrui Yu, Kangchen Lv, **Changhao Wang**, Yongpeng Jiang, Masayoshi Tomizuka, Xiang Li
+**Shiyu Jin**, Jinxuan Xu, Yutian Lei, Liangjun Zhang
 
-International Journal of Robotics Research, in submission
+Under review
 
-\[[Paper](https://arxiv.org/pdf/2310.09899.pdf)\] \[[Website](https://mingrui-yu.github.io/DLO_planning_2/)\]
-{{< /columns >}} -->
+\[[Paper](https://arxiv.org/pdf/2402.06798.pdf)\] 
+{{< /columns >}}
 
+{{< columns "/images/RL_llm.png" "200px" "120px">}}
+**RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations with Large Language Models**
 
-{{< columns "/images/acc24.gif" "200px" "140px">}}
-**Distributed Multi-agent Interaction Generation with Imagined Potential Games**
+Liangliang Chen, Yutian Lei, **Shiyu Jin**, Ying Zhang, Liangjun Zhang
 
-Lingfeng Sun, Pin-Yun Hung, **Changhao Wang**, Masayoshi Tomizuka, Zhuo Xu
+Under review
 
-American Control Conference (ACC) 2024, Accepted
+\[[Website](https://rlingua.github.io/)\] 
+{{< /columns >}}
 
-\[[Paper](https://arxiv.org/pdf/2310.01614.pdf)\] \[[Website](https://sites.google.com/berkeley.edu/distributed-interaction)\] \[[Code](https://github.com/tg623623nana/Distributed-Multi-agent-Interaction-Generation-with-Imagined-Potential-Games)\]
+{{< columns "/images/rt_grasp.png" "200px" "170px">}}
+**Reasoning Tuning Grasp: Adapting Multimodal Large Language Models for Robotic Grasping**
+
+Jinxuan Xu, **Shiyu Jin**, Yutian Lei, Yuqian Zhang, Liangjun Zhang
+
+Workshop in CoRL 2023
+
+Under review
+
+\[[Paper](https://openreview.net/pdf?id=3mKb5iyZ2V)\] \[[Website](https://sites.google.com/view/rt-grasp)]
 {{< /columns >}}
 
 
+{{< columns "/images/vihe_combined.gif" "200px" "120px">}}
+**Transformer-Based 3D Object Manipulation using Virtual In-Hand Views**
 
-{{< columns "/images/online_admittance_learning.gif" "200px" "140px">}}
-**Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning**
+Weiyao Wang, Yutian Lei, **Shiyu Jin**, Gregory D. Hager, Liangjun Zhang
 
-Xiang Zhang*, **Changhao Wang***, Lingfeng Sun, Zheng Wu, Xinghao Zhu, Masayoshi Tomizuka
+Workshop in CoRL 2023
 
-Conference on Robot Learning (CoRL) 2023
+Under review
 
-\[[Paper](https://proceedings.mlr.press/v229/zhang23e/zhang23e.pdf)\] \[[Website](https://sites.google.com/view/admitlearn)\]
+\[[Website](https://vihe-3d.github.io/)\]
 {{< /columns >}}
 
+{{< columns "/images/rigid_excavation.png" "200px" "120px">}}
+**Robotic Excavation of Rigid Objects using Offline Reinforcement Learning**
 
-{{< columns "/images/se3_equivariant.gif" "200px" "140px">}}
-**Contact-rich SE (3)-Equivariant Robot Manipulation Task Learning via Geometric Impedance Control**
+**Shiyu Jin**, Zhixian Ye, Liangjun Zhang
 
-Joohwan Seo, Nikhil PS Prakash, Xiang Zhang, **Changhao Wang**, Jongeun Choi, Masayoshi Tomizuka, Roberto Horowitz
+Under review
 
-IEEE Robotics and Automation Letters (RAL) 2023
-
-\[[Paper](https://arxiv.org/pdf/2308.14984.pdf)\] \[[Website](https://sites.google.com/berkeley.edu/equivariant-task-learning/additional-contents?authuser=0)\] \[[Code](https://github.com/Joohwan-Seo/GIC_Learning_public)\]
+\[[Paper](https://arxiv.org/pdf/2303.16427.pdf)\] 
 {{< /columns >}}
 
+{{< columns "/images/excavation_gif.gif" "200px" "135px">}}
+**Autonomous Excavator System for Construction Earth Moving**
 
-{{< columns "/images/icra23_deformable.gif" "200px" "170px">}}
-**A coarse-to-fine framework for dual-arm manipulation of deformable linear objects with whole-body obstacle avoidance**
+**Shiyu Jin**, Liuwang Kang, Yuan-Chih Peng, Zhenpeng He, Ruitao Song, Lingfeng Qian, Liangjun Zhang
 
-Mingrui Yu, Kangchen Lv, **Changhao Wang**, Masayoshi Tomizuka, Xiang Li
+Workshop in ICRA 2023, workshop in RSS 2023
 
-ICRA 2023
-
-:star: **Best Workshop Paper Award** :star:
-
-\[[Paper](https://arxiv.org/pdf/2209.11145.pdf)\] \[[Website](https://mingrui-yu.github.io/DLO_planning/)\] \[[Presentation](https://www.youtube.com/watch?v=_m1bVlXw6UI&feature=youtu.be)\] 
+\[[Paper](https://www.iaarc.org/publications/fulltext/07_ICRA_2023_Paper_42.pdf)\]  \[Video](https://www.youtube.com/watch?v=mMPLjP5OVNk)
 {{< /columns >}}
 
+{{< columns "/images/water_scooping.gif" "200px" "170px">}}
+**Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning**
 
-{{< columns "/images/icra23_insertion.png" "200px" "145px">}}
-**Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning**
+Yaru Niu,  **Shiyu Jin**,  Zeqing Zhang,  Jiacheng Zhu,  Ding Zhao,  Liangjun Zhang
 
-Zheng Wu, Yichen Xie, Wenzhao Lian, **Changhao Wang**, Yanjiang Guo, Jianyu Chen, Stefan Schaal, Masayoshi Tomizuka
+IROS 2023
 
-ICRA 2023
-
-\[[Paper](https://arxiv.org/pdf/2210.00350.pdf)\]
-{{< /columns >}}
-
-
-{{< columns "/images/ifac23.png" "200px" "125px">}}
-**Prim-LAfD: A Framework to Learn and Adapt Primitive-Based Skills from Demonstrations for Insertion Tasks**
-
-Zheng Wu, Wenzhao Lian, **Changhao Wang**, Mengxi Li, Stefan Schaal, Masayoshi Tomizuka
-
-IFAC 2023
-
-\[[Paper](https://arxiv.org/pdf/2212.00955.pdf)\]
-{{< /columns >}}
-
-
-{{< columns "/images/safe_vic.gif" "200px" "130px">}}
-**Safe online gain optimization for Cartesian space variable impedance control**
-
-**Changhao Wang**, Xiang Zhang, Zhian Kuang, Masayoshi Tomizuka
-
-CASE 2022
-
-\[[Paper](https://arxiv.org/pdf/2111.01258.pdf)\] \[[Website](https://msc.berkeley.edu/research/safe-ongo-vic.html)\]
-{{< /columns >}}
-
-
-{{< columns "/images/ral22_gnn.gif" "200px" "130px">}}
-**Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks**
-
-**Changhao Wang**, Yuyou Zhang, Xiang Zhang, Zheng Wu, Xinghao Zhu, Shiyu Jin, Te Tang, Masayoshi Tomizuka
-
-IEEE Robotics and Automation Letters (RA-L) 2022
-
-\[[Paper](https://arxiv.org/pdf/2203.15004.pdf)\] \[[Website](https://msc.berkeley.edu/research/deformable-GNN.html)\] \[[Code](https://github.com/ChanghaoWang/cable_manipulation_gnn)\]
+\[[Paper](https://arxiv.org/pdf/2303.05193.pdf)\] \[[Website](https://sites.google.com/view/goatscooping)\]
 {{< /columns >}}
 
 
 {{< columns "/images/cable_routing_ral22.png" "200px" "125px">}}
 **Robotic Cable Routing with Spatial Representation**
 
-Shiyu Jin, Wenzhao Lian, **Changhao Wang**, Masayoshi Tomizuka, Stefan Schaal
+**Shiyu Jin**, Wenzhao Lian, Changhao Wang, Masayoshi Tomizuka, Stefan Schaal
 
 IEEE Robotics and Automation Letters (RA-L) 2022
 
@@ -151,10 +139,22 @@ IEEE Robotics and Automation Letters (RA-L) 2022
 {{< /columns >}}
 
 
+{{< columns "/images/ral22_gnn.gif" "200px" "130px">}}
+**Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks**
+
+Changhao Wang, Yuyou Zhang, Xiang Zhang, Zheng Wu, Xinghao Zhu, **Shiyu Jin**, Te Tang, Masayoshi Tomizuka
+
+IEEE Robotics and Automation Letters (RA-L) 2022
+
+\[[Paper](https://arxiv.org/pdf/2203.15004.pdf)\] \[[Website](https://msc.berkeley.edu/research/deformable-GNN.html)\] \[[Code](https://github.com/ChanghaoWang/cable_manipulation_gnn)\]
+{{< /columns >}}
+
+
+
 {{< columns "/images/insert_primitive.gif" "200px" "135px">}}
 **Learning Insertion Primitives with Hybrid Action Space for Robotic Assembly Tasks**
 
-Xiang Zhang, Shiyu Jin, **Changhao Wang**, Xinghao Zhu, Masayoshi Tomizuka
+Xiang Zhang, **Shiyu Jin**, Changhao Wang, Xinghao Zhu, Masayoshi Tomizuka
 
 ICRA 2022
 
@@ -165,40 +165,28 @@ ICRA 2022
 {{< columns "/images/bpomp.gif" "200px" "135px">}}
 **BPOMP: A Bilevel Path Optimization Formulation for Motion Planning**
 
-**Changhao Wang**, Hsien-Chung Lin, Shiyu Jin, Xinghao Zhu, Liting Sun, Masayoshi Tomizuka
+Changhao Wang, Hsien-Chung Lin, **Shiyu Jin**, Xinghao Zhu, Liting Sun, Masayoshi Tomizuka
 
 American Control Conference (ACC) 2022
 
-\[[Paper](https://ieeexplore.ieee.org/document/9867454)\] \[[Website](https://changhaowang.github.io/BPOMP/BPOMP.html)\] \[[Patent](https://patents.google.com/patent/US11813753B2/en)\]
+\[[Paper](https://ieeexplore.ieee.org/document/9867454)\] \[[Website](https://changhaowang.github.io/BPOMP/BPOMP.html)\]
+{{< /columns >}}
+
+{{< columns "/images/belt_drive_unit.gif" "200px" "150px">}}
+**Trajectory Optimization for Manipulation of Deformable Objects: Assembly of Belt Drive Units**
+
+**Shiyu Jin**, Diego Romeres, Arvind Ragunathan, Devesh K. Jha， Masayoshi Tomizuka
+
+ICRA 2021
+
+\[[Paper](https://arxiv.org/pdf/2106.00898.pdf)\] 
 {{< /columns >}}
 
 
-{{< columns "/images/ral21_leg_adaptation.gif" "200px" "140px">}}
-**Online learning of unknown dynamics for model-based controllers in legged locomotion**
-
-Yu Sun, Wyatt L Ubellacker, Wen-Loong Ma, Xiang Zhang, **Changhao Wang**, Noel V Csomay-Shanklin, Masayoshi Tomizuka, Koushil Sreenath, Aaron D Ames
-
-IEEE Robotics and Automation Letters (RA-L) 2021
-
-\[[Paper](https://par.nsf.gov/servlets/purl/10319492)\] \[[Video](https://www.youtube.com/watch?v=Je_2Y-FQpKw)\]
-{{< /columns >}}
-
-
-{{< columns "/images/traj_split.gif" "200px" "115px">}}
-**Trajectory splitting: A distributed formulation for collision avoiding trajectory optimization**
-
-**Changhao Wang**, Jeffrey Bingham, Masayoshi Tomizuka
-
-IROS 2021
-
-\[[Paper](https://arxiv.org/pdf/2111.01899)\]
-{{< /columns >}}
-
-
-{{< columns "/images/contact_pose_id.png" "200px" "120px">}}
+{{< columns "/images/contact_pose_id.png" "200px" "150px">}}
 **Contact pose identification for peg-in-hole assembly under uncertainties**
 
-Shiyu Jin, Xinghao Zhu, **Changhao Wang**, Masayoshi Tomizuka
+**Shiyu Jin**, Xinghao Zhu, Changhao Wang, Masayoshi Tomizuka
 
 American Control Conference (ACC) 2021
 
@@ -209,20 +197,9 @@ American Control Conference (ACC) 2021
 {{< columns "/images/sprrwls.gif" "200px" "120px">}}
 **Robust deformation model approximation for robotic cable manipulation**
 
-Shiyu Jin*, **Changhao Wang***, Masayoshi Tomizuka
+**Shiyu Jin***, Changhao Wang*, Masayoshi Tomizuka
 
 IROS 2019
 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/8968157)\] \[[Website](https://changhaowang.github.io/IROS2019/SPRRWLS)\]
-{{< /columns >}}
-
-
-{{< columns "/images/rope_tracking.gif" "200px" "120px">}}
-**A framework for manipulating deformable linear objects by coherent point drift**
-
-Te Tang*, **Changhao Wang***, Masayoshi Tomizuka
-
-IEEE Robotics and Automation Letters (RA-L) 2018
-
-\[[Paper](/files/rope_framework.pdf)\]
 {{< /columns >}}
