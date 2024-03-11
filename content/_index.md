@@ -5,7 +5,7 @@ draft: false
 
 I'm a robotic researcher at [Baidu Research](http://research.baidu.com/) in Sunnyvale, California. My research interests focus on robotic manipulation and robot learning.
 
-I obtained my Ph.D. from [UC Berkeley](https://www.berkeley.edu/) in Dec 2021, supervised by [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html). Before joining Baidu, I had the opportunities to work at [Google X](https://rlingua.github.io/)/[Intrinsic](https://intrinsic.ai/), [MERL](https://www.merl.com/), [FANUC](https://www.fanucamerica.com/).
+I obtained my Ph.D. from [UC Berkeley](https://www.berkeley.edu/) in Dec 2021, supervised by [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html). Before joining Baidu, I had the opportunities to work at [Google X](https://x.company/)/[Intrinsic](https://intrinsic.ai/), [MERL](https://www.merl.com/), [FANUC](https://www.fanucamerica.com/).
 
 ---
 #### EDUCATION
