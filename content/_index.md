@@ -62,16 +62,6 @@ Under review
 \[[Paper](https://arxiv.org/pdf/2402.06798.pdf)\] 
 {{< /columns >}}
 
-{{< columns "/images/RL_llm.png" "200px" "120px">}}
-**RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations with Large Language Models**
-
-Liangliang Chen, Yutian Lei, **Shiyu Jin**, Ying Zhang, Liangjun Zhang
-
-Under review
-
-\[[Website](https://rlingua.github.io/)\] 
-{{< /columns >}}
-
 {{< columns "/images/rt_grasp.png" "200px" "170px">}}
 **Reasoning Tuning Grasp: Adapting Multimodal Large Language Models for Robotic Grasping**
 
@@ -105,6 +95,16 @@ Under review
 Under review
 
 \[[Paper](https://arxiv.org/pdf/2303.16427.pdf)\] 
+{{< /columns >}}
+
+{{< columns "/images/RL_llm.png" "200px" "120px">}}
+**RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations with Large Language Models**
+
+Liangliang Chen, Yutian Lei, **Shiyu Jin**, Ying Zhang, Liangjun Zhang
+
+IEEE Robotics and Automation Letters (RA-L) 2024 (Accepted)
+
+\[[Website](https://rlingua.github.io/)\] 
 {{< /columns >}}
 
 {{< columns "/images/excavation_gif.gif" "200px" "135px">}}
