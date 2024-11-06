@@ -3,9 +3,9 @@ title: "Introduction"
 draft: false
 ---
 
-I'm a robotic researcher at [Baidu Research](http://research.baidu.com/) in Sunnyvale, California. My research interests focus on robotic manipulation and robot learning.
+I'm a software engineer at [Waymo](https://waymo.com/), working on multi-modal large language models for Autonomous Driving. My research interests span robotics and machine learning, with a focus on advancing AI applications in real-world environments.
 
-I obtained my Ph.D. from [UC Berkeley](https://www.berkeley.edu/) in Dec 2021, supervised by [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html). Before joining Baidu, I had the opportunities to work at [Google X](https://x.company/)/[Intrinsic](https://intrinsic.ai/), [MERL](https://www.merl.com/), [FANUC](https://www.fanucamerica.com/).
+Before joining Waymo, I worked as a senior robotics researcher for 2 years at [Baidu Research](http://research.baidu.com/). I obtained my Ph.D. from [UC Berkeley](https://www.berkeley.edu/) in December 2021, where I was advised by [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html). During my Ph.D., I had the opportunities to intern at [Google X](https://x.company/)/[Intrinsic](https://intrinsic.ai/), [MERL](https://www.merl.com/), [FANUC](https://www.fanucamerica.com/).
 
 ---
 #### EDUCATION
@@ -57,44 +57,9 @@ Beijing Institute of Technology, Beijing, China
 
 **Shiyu Jin**, Jinxuan Xu, Yutian Lei, Liangjun Zhang
 
-Under review
+CoRL 2024
 
-\[[Paper](https://arxiv.org/pdf/2402.06798.pdf)\] 
-{{< /columns >}}
-
-{{< columns "/images/rt_grasp.png" "200px" "170px">}}
-**Reasoning Tuning Grasp: Adapting Multimodal Large Language Models for Robotic Grasping**
-
-Jinxuan Xu, **Shiyu Jin**, Yutian Lei, Yuqian Zhang, Liangjun Zhang
-
-Workshop in CoRL 2023
-
-Under review
-
-\[[Paper](https://openreview.net/pdf?id=3mKb5iyZ2V)\] \[[Website](https://sites.google.com/view/rt-grasp)]
-{{< /columns >}}
-
-
-{{< columns "/images/vihe_combined.gif" "200px" "120px">}}
-**Transformer-Based 3D Object Manipulation using Virtual In-Hand Views**
-
-Weiyao Wang, Yutian Lei, **Shiyu Jin**, Gregory D. Hager, Liangjun Zhang
-
-Workshop in CoRL 2023
-
-Under review
-
-\[[Website](https://vihe-3d.github.io/)\]
-{{< /columns >}}
-
-{{< columns "/images/rigid_excavation.png" "200px" "120px">}}
-**Robotic Excavation of Rigid Objects using Offline Reinforcement Learning**
-
-**Shiyu Jin**, Zhixian Ye, Liangjun Zhang
-
-Under review
-
-\[[Paper](https://arxiv.org/pdf/2303.16427.pdf)\] 
+\[[Paper](https://openreview.net/forum?id=KPcX4jetMw)\] \[[Website](https://reasoning-grasping.github.io/)]
 {{< /columns >}}
 
 {{< columns "/images/RL_llm.png" "200px" "120px">}}
@@ -102,10 +67,40 @@ Under review
 
 Liangliang Chen, Yutian Lei, **Shiyu Jin**, Ying Zhang, Liangjun Zhang
 
-IEEE Robotics and Automation Letters (RA-L) 2024 (Accepted)
+IEEE Robotics and Automation Letters (RA-L) 2024
 
 \[[Website](https://rlingua.github.io/)\] 
 {{< /columns >}}
+
+{{< columns "/images/vihe_combined.gif" "200px" "120px">}}
+**Transformer-Based 3D Object Manipulation using Virtual In-Hand Views**
+
+Weiyao Wang, Yutian Lei, **Shiyu Jin**, Gregory D. Hager, Liangjun Zhang
+
+IROS 2024
+
+\[[Website](https://vihe-3d.github.io/)\]
+{{< /columns >}}
+
+{{< columns "/images/rt_grasp.png" "200px" "170px">}}
+**Reasoning Tuning Grasp: Adapting Multimodal Large Language Models for Robotic Grasping**
+
+Jinxuan Xu, **Shiyu Jin**, Yutian Lei, Yuqian Zhang, Liangjun Zhang
+
+IROS 2024
+
+\[[Paper](https://openreview.net/pdf?id=3mKb5iyZ2V)\] \[[Website](https://sites.google.com/view/rt-grasp)]
+{{< /columns >}}
+
+<!-- {{< columns "/images/rigid_excavation.png" "200px" "120px">}}
+**Robotic Excavation of Rigid Objects using Offline Reinforcement Learning**
+
+**Shiyu Jin**, Zhixian Ye, Liangjun Zhang
+
+Under review
+
+\[[Paper](https://arxiv.org/pdf/2303.16427.pdf)\] 
+{{< /columns >}} -->
 
 {{< columns "/images/excavation_gif.gif" "200px" "135px">}}
 **Autonomous Excavator System for Construction Earth Moving**
